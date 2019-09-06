@@ -3,7 +3,7 @@ CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVIC
 KAPITAL YOU PTY LTD IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION AND USE OF THE KAPITAL YOU SHAREHOLDERS AGREEMENT UNDER THE TERMS OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. KAPITAL YOU PTY LTD PROVIDES THE KAPITAL YOU SHAREHOLDERS AGREEMENT ON AN "AS-IS" BASIS. KAPITAL YOU PTY LTD MAKES NO WARRANTIES REGARDING THE THE KAPITAL YOU SHAREHOLDERS AGREEMENT, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE. 
 
 
-#License
+# License
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
@@ -96,7 +96,7 @@ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE B
 
     The rights granted under, and the subject matter referenced, in this License were drafted utilizing the terminology of the Berne Convention for the Protection of Literary and Artistic Works (as amended on September 28, 1979), the Rome Convention of 1961, the WIPO Copyright Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996 and the Universal Copyright Convention (as revised on July 24, 1971). These rights and subject matter take effect in the relevant jurisdiction in which the License terms are sought to be enforced according to the corresponding provisions of the implementation of those treaty provisions in the applicable national law. If the standard suite of rights granted under applicable copyright law includes additional rights not granted under this License, such additional rights are deemed to be included in the License; this License is not intended to restrict the license of any rights under applicable law.
 
-    ##Creative Commons Notice
+    ## Creative Commons Notice
 
     Creative Commons is not a party to this License, and makes no warranty whatsoever in connection with the Work. Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.
 
@@ -104,7 +104,7 @@ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE B
 
     Creative Commons may be contacted at https://creativecommons.org/.
 
-    ##KAPITAL YOU PTY LTD Notice
+    ## KAPITAL YOU PTY LTD Notice
 
     KAPITAL YOU PTY LTD is not a party to any agreement made using the Kapital You Shareholders Agreement or any derivative thereof, and makes no warranty whatsoever in connection with it's use in such an agreement. KAPITAL YOU PTY LTD will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to the Kapital You Shareholders Agreement. 
 

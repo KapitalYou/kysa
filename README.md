@@ -1,6 +1,6 @@
 # Kapital You Shareholders Agreement
 
-This Kapital You Shareholders' Agreement (KYSA) is an agreement that has been made between the company, it's shareholders, it's directors, and every party that is directly involved in running the company's business or in providing physical or human capital to the company.
+This Kapital You Shareholders' Agreement (KYSA) is an agreement that has been made between the company, it's shareholders, it's directors, and every party that is directly involved in running the company's business or in providing financial or human capital to the company.
 
 All of the signatories to this KYSA want to conduct the company's business in a way that does not directly subordinate any person, and that minimises the amount of indirect subordination in other businesses that will result from the conduct of the company's business, and which ensures that all contributions of human time and effort directly to the company are treated as contributions of human capital rather than as the provision of labor or services, and that such contributions will be rewarded with a portion of company income and control in the same way that other types of capital are.
 

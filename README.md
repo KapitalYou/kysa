@@ -58,3 +58,16 @@ The signatories to this KYSA have therefore agreed to conduct the business accor
 
     **Entity**: A natural person or corporate body or other legal entity with the legal capacity to enter into a contract.
 
+# Schedules
+
+A) The Company is:
+
+
+B) The Founders are:
+
+
+# Signatures
+
+The signatories who are paries to this agreement are:
+
+

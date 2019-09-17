@@ -40,23 +40,23 @@ The signatories to this KYSA have therefore agreed to conduct the business accor
 
 17. The following words will have the meaning given below wherever they are used in this KYSA, unless a contrary meaning is required by context or explicitly indicated by the text of this KYSA:
 
-    **Kapital You Shareholders' Agreement**: This Agreement.
+**Kapital You Shareholders' Agreement**: This Agreement.
 
-    **KYSA**: This Agreement.
+**KYSA**: This Agreement.
 
-    **The Company**: The corporation named as The Company in the schedules attached to this agreement.
+**The Company**: The corporation named as The Company in the schedules attached to this agreement.
 
-    **The Directors**: The Directors of the company from time to time.
+**The Directors**: The Directors of the company from time to time.
 
-    **The Shareholders**: Any entity that holds shares in the company either directly or beneficially
+**The Shareholders**: Any entity that holds shares in the company either directly or beneficially
 
-    **The Signatories**: Any entitiy that is a signatory to this KYSA, as named at the end of this KYSA.
+**The Signatories**: Any entitiy that is a signatory to this KYSA, as named at the end of this KYSA.
 
-    **Kapital Point**: The measure that will be used to determine how much voting rights each signatory has about any vote regarding the company.
+**Kapital Point**: The measure that will be used to determine how much voting rights each signatory has about any vote regarding the company.
 
-    **KP**: Kapital Point.
+**KP**: Kapital Point.
 
-    **Entity**: A natural person or corporate body or other legal entity with the legal capacity to enter into a contract.
+**Entity**: A natural person or corporate body or other legal entity with the legal capacity to enter into a contract.
 
 # Schedules
 
@@ -68,6 +68,5 @@ B) The Founders are:
 
 # Signatures
 
-The signatories who are paries to this agreement are:
-
+The signatories who are parties to this agreement are:
 

@@ -46,6 +46,8 @@ The signatories to this KYSA have therefore agreed to conduct the business accor
 
 **The Company**: The corporation named as The Company in the schedules attached to this agreement.
 
+**Shares**: Shares in the company.
+
 **The Directors**: The Directors of the company from time to time, as well as any entity that is a shadow director or otherwise exerts control over a director or the company.
 
 **The Shareholders**: Any entity that holds shares in the company either directly or beneficially
@@ -55,6 +57,8 @@ The signatories to this KYSA have therefore agreed to conduct the business accor
 **Kapital Point**: The measure that will be used to determine how much voting rights each signatory has about any vote regarding the company.
 
 **KP**: Kapital Point.
+
+**Contribution Contract**: A contract between a signatory and the company that specifies what that signatory agrees to do for the company under that contract, and what consideration that signatory will receive in the form of KP and shares under that contribution contract (including the time at which any shares will be received).
 
 **Entity**: A natural person or corporate body or other legal entity with the legal capacity to enter into a contract.
 

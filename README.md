@@ -46,7 +46,7 @@ The signatories to this KYSA have therefore agreed to conduct the business accor
 
 **The Company**: The corporation named as The Company in the schedules attached to this agreement.
 
-**The Directors**: The Directors of the company from time to time.
+**The Directors**: The Directors of the company from time to time, as well as any entity that is a shadow director or otherwise exerts control over a director or the company.
 
 **The Shareholders**: Any entity that holds shares in the company either directly or beneficially
 

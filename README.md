@@ -58,7 +58,7 @@ The signatories to this KYSA have therefore agreed to conduct the business accor
 
 **KP**: Kapital Point.
 
-**Contribution Contract**: A contract between a signatory and the company that specifies what that signatory agrees to do for the company under that contract, and what consideration that signatory will receive in the form of KP and shares under that contribution contract (including the time at which any shares will be received).
+**Contribution Contract**: A contract between a signatory and the company that specifies what that signatory agrees to do for the company under that contribution contract, and what consideration that signatory will receive in the form of KP and shares under that contribution contract (including the time at which any shares will be received).
 
 **Entity**: A natural person or corporate body or other legal entity with the legal capacity to enter into a contract.
 
